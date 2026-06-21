@@ -1,11 +1,10 @@
 {
-  "name": "NextPhase Work Log System",
-  "short_name": "NextPhase",
-  "start_url": "index.html",
+  "name": "NextPhase Office Check-In",     
+  "short_name": "NP CheckIn",              
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0f172a",
-  "theme_color": "#0284c7",
-  "orientation": "portrait-primary",
+  "theme-color": "#0284c7",
   "icons": [
     {
       "src": "img/logo-next-phase.jpg",
